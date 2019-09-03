@@ -15,3 +15,5 @@
 	
 	5) have the ability to reprocess historical data in case of bugs in the processing logic.
 
+
+![Google Analytic like Backend System](GAbackendlikesystem.png)
