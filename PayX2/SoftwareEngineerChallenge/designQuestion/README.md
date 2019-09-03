@@ -14,3 +14,4 @@
 	4) run with minimum downtime.
 	
 	5) have the ability to reprocess historical data in case of bugs in the processing logic.
+
