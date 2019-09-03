@@ -15,5 +15,15 @@
 	
 	5) have the ability to reprocess historical data in case of bugs in the processing logic.
 
+For a more reliable, scalable and fast. This backend system design is base on the following technologies:
+
+[] HAProxy (Load balancer).
+[] Spring cloud (API gateway).
+[] Spring boot (microservices).
+[] Apache Kafka streams (messaging system)
+[] Apache Spark (time-series data processing)
+[] Apache Ignite (In-memory database)
+[] Cassandra (persistent database)
+
 
 ![Google Analytic like Backend System](GAbackendlikesystem.png)
